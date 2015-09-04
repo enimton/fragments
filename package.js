@@ -1,9 +1,9 @@
 Package.describe({
-  name:          'imkost:fragments',
-  version:       '0.1.0',
-  summary:       'Simple module system',
-  git:           'https://github.com/imkost/fragments',
-  documentation: 'README.md',
+  name          : 'imkost:fragments',
+  version       : '0.2.0',
+  summary       : 'Simple module system',
+  git           : 'https://github.com/imkost/fragments',
+  documentation : 'README.md',
 });
 
 Package.onUse(function(api) {

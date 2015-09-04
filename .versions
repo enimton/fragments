@@ -1,0 +1,11 @@
+babel-compiler@5.8.22-rc.1
+babel-runtime@0.1.4-rc.0
+base64@1.0.4-rc.0
+check@1.0.6-rc.0
+ecmascript@0.1.3-rc.2
+ecmascript-collections@0.1.5-rc.1
+ejson@1.0.7-rc.0
+imkost:fragments@0.2.0
+meteor@1.1.7-rc.1
+promise@0.4.8-rc.0
+underscore@1.0.4-rc.0
