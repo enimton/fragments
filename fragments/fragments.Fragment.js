@@ -11,7 +11,7 @@ fragments.Fragment = class {
    *  @param {String[]} opts.deps
    *  @param {Function} opts.action
    */
-  constructor({ name, deps, action }) {    
+  constructor({ name, deps, action }) {
     this.name = name;
     this.deps = deps;
     this.action = action;
@@ -33,7 +33,7 @@ fragments.Fragment = class {
       const depValue = getDep(dep);
 
       if ( ! depValue) {
-        return { success: false, dep }
+        return { success: false, dep };
       }
 
       depValues.push(depValue);

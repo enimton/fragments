@@ -37,7 +37,7 @@ fragments.getDep = (dep) => {
     return cachedDeps[dep];
   }
 
-  value = safeGet(modules, dep) || safeGet(globalObject, dep);
+  const value = safeGet(modules, dep) || safeGet(globalObject, dep);
 
   if ( ! value) {
     return null;
