@@ -1,6 +1,6 @@
 Package.describe({
   name          : 'imkost:fragments',
-  version       : '0.2.0',
+  version       : '0.2.1',
   summary       : 'Simple module system',
   git           : 'https://github.com/imkost/fragments',
   documentation : 'README.md',
