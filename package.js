@@ -9,7 +9,7 @@ Package.describe({
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
 
-  api.use('ecmascript');
+  api.use('ecmascript@0.1.3-rc.2');
 
   api.addFiles([
     'fragments/fragments.js',
