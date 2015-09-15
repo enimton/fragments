@@ -1,3 +1,7 @@
+## Fragments are deprecated
+
+I don't use Fragments anymore. For now, there are several solutions which allow to use ES6 modules with no pain. So I switched to ES6 modules.
+
 ## Fragments
 
 Simple module system
